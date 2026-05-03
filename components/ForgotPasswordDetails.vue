@@ -31,7 +31,7 @@
         </div>
       </div>
       <div v-if="errorMessage">
-        <rh-alert v-if="errorMessage" state="success" variant="alternate">
+        <rh-alert v-if="errorMessage" state="danger" variant="alternate">
           <h3>{{ errorMessage }}</h3>
         </rh-alert>
       </div>
