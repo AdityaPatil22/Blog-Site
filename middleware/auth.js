@@ -11,3 +11,4 @@ export default defineNuxtRouteMiddleware(() => {
     }
   }
 });
+      this.isOwner = false;
