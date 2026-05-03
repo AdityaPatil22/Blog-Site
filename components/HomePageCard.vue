@@ -88,7 +88,7 @@
 }
 
 @media screen and (max-width: 767px) {
-  .home-main-container {
+  .card-main-container {
     max-width: 100%;
   }
 }
